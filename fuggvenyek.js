@@ -186,3 +186,18 @@ function atlo_ell(meret, lista) {
 
   return szoveg;
 }
+
+export const exportedForTesting = [
+    [0,  letrehoz],
+    [1,  jatekListaFeltolt],
+    [2,  jatekMenet],
+    [3,  nyertAllapot],
+    [4,  lepesekAllapot],
+    [5,  jatekKezdese],
+    [6,  gombKicserel],
+    [7,  palya_valasztas],
+    [8,  ellenoriz],
+    [9,  vizszintes_ell],
+    [10, fuggoleges_ell],
+    [11, atlo_ell]
+]
